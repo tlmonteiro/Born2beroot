@@ -1,0 +1,22 @@
+Born2beroot related:
+https://www.youtube.com/watch?v=cR1GOYKgx1I
+https://www.youtube.com/watch?v=mQP0wqNT_DI
+https://www.geeksforgeeks.org/types-of-virtual-machines/
+https://www.tutorialspoint.com/what-are-virtual-machines-in-operating-system
+https://www.geeksforgeeks.org/virtual-machines-in-operating-system/
+https://www.educba.com/centos-vs-debian/
+https://www.openlogic.com/blog/centos-vs-debian#overview
+https://docs.oracle.com/en/virtualization/virtualbox/6.0/admin/adv-storage-config.html
+https://www.ibm.com/docs/en/power9?topic=linux-adding-virtual-disk-units-logical-partition
+https://terminalblues.dev/LVM-Lab-Setup-With-VirtualBox
+https://www.virtualbox.org/manual/ch03.html
+------------------------------------------------------------------------------------------------------
+Get_next_line related:
+
+------------------------------------------------------------------------------------------------------
+Printf related:
+
+------------------------------------------------------------------------------------------------------
+Libft related:
+
+------------------------------------------------------------------------------------------------------
